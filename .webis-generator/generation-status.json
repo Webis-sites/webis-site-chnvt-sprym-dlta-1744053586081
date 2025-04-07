@@ -1,11 +1,66 @@
 {
-  "timestamp": "2025-04-07T19:20:10.316Z",
+  "timestamp": "2025-04-07T19:20:41.662Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 9,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "NavigationMenu",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL responsive navigation menu with smooth scrolling to all sections"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section showcasing the bookstore with headline and call to action"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section explaining the bookstore's history, expertise and values"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of the bookstore's specialized services"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer testimonials highlighting positive experiences"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form and information for customer inquiries"
+    },
+    {
+      "name": "LocationSection",
+      "type": "map",
+      "status": "pending",
+      "description": "Map showing the bookstore location with directions"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Website footer with links, copyright and additional information"
+    },
+    {
+      "name": "ScrollToTopButton",
+      "type": "utility",
+      "status": "pending",
+      "description": "Button that appears when scrolling to return to top of page"
+    }
+  ],
   "repoName": "webis-site-chnvt-sprym-dlta-1744053586081"
 }
