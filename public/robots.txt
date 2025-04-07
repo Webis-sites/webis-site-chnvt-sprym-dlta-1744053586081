@@ -1,0 +1,6 @@
+# robots.txt for חנות ספרים דלתא
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://חנות-ספרים-דלתא.com/sitemap.xml
