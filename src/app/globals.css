@@ -28,6 +28,9 @@
   --testimonial-transition-duration: 0.5s;
   --testimonial-avatar-size: 80px;
   --testimonial-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+
+  --footer-animation-speed: 0.3s;
+  --rtl-direction: rtl;
 }
 
 html {
