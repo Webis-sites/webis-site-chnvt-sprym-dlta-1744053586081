@@ -31,6 +31,9 @@
 
   --footer-animation-speed: 0.3s;
   --rtl-direction: rtl;
+
+  --scroll-button-transition: 0.3s ease-in-out;
+  --scroll-animation-duration: 0.5s;
 }
 
 html {
