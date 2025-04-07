@@ -8,6 +8,10 @@
   --background-end-rgb: 255, 255, 255;
   --primary-color: #588C7E;
   --secondary-color: #FFEEAD;
+
+  --menu-transition: 0.3s;
+  --menu-height: 64px;
+  --menu-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 html {
